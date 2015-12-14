@@ -1,4 +1,4 @@
-# OSRR_course
+## OSRR_course##
 The Open Science and Reproducible Research course
 This repo will contain the materials for an open science and reproducible research course targetted at organismal ecologists. The idea is to create a framework for students to be led along the open science path, over a typical semester and using real data, leading to a final publication. The idea is to provide an even balance of technical skill (eg: how to set up version control using R Studio) with more philosophical aspects (eg: authorship and credit in collaborative projects)
 
