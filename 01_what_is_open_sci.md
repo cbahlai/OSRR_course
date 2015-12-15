@@ -1,6 +1,6 @@
 ##What is open science?
 
-**Goals for this lecture**
+**Goals for this lesson**
 
 * administrivia! go over the [syllabus](https://github.com/cbahlai/OSRR_course/blob/master/Syllabus.md)
 * define open science
