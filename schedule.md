@@ -208,6 +208,7 @@ Guest Speaker: Jason Bobe, Mozilla Science Fellow
 **Submitting a manuscript to a journal.**
  
 - Exercise: What will you need to submit with your MS?
+
 ## 4/21 ##
  
 **Managing  collaborative projects on the web**
