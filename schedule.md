@@ -14,14 +14,14 @@ Rules and regulations from NSF, intro to terminology
  
  
 ## 1/19 ##
-**Organizing data tables**
+**[Organizing data tables](https://github.com/cbahlai/OSRR_course/blob/master/02_organizing_data_tables.md)**
 
 - Clinic: setting up data tables for your research
 - Students will be assigned groups and given access to their project dataset
 
 ## 1/21 ##
  
-**Becoming open scientists: what skills do you need?**
+**[Becoming open scientists: what skills do you need?](https://github.com/cbahlai/OSRR_course/blob/master/03_skills_for_open_sci.md)**
  
 Intro to collaborative writing using Authorea/Google Docs
 Intro to open notebooking and class blog
@@ -32,7 +32,7 @@ Intro to open notebooking and class blog
   
  
 ## 1/26 ##
-**Understanding other people’s data: an introduction to metadata**
+**[Understanding other people’s data: an introduction to metadata](https://github.com/cbahlai/OSRR_course/blob/master/04_understanding_other_peoples_data_metadata.md)**
  
 Guest speaker: Stephanie Wright, data science librarian, Mozilla Science Lab
 
@@ -41,7 +41,7 @@ Guest speaker: Stephanie Wright, data science librarian, Mozilla Science Lab
 
 ## 1/28 ##
  
-**Data creation and authorship**
+**[Data creation and authorship](https://github.com/cbahlai/OSRR_course/blob/master/05_data_creation_authorship.md)**
 
 - Reflection: what are the challenges you faced in trying to understand data produced by others?
  
@@ -63,25 +63,25 @@ Christie away- Mozilla work week
  
  
 ## 2/9 ##
-**Data cleaning: introducing OpenRefine**
+**[Data cleaning: introducing OpenRefine](https://github.com/cbahlai/OSRR_course/blob/master/06_data.cleaning.md)**
  
 - Exercise: QC on project data
 
 ## 2/11 ##
  
-**Grey data: can it be liberated?**
+**[Grey data: can it be liberated?](https://github.com/cbahlai/OSRR_course/blob/master/07_grey_data_liberation.md)**
 - Reflection: how can we save the grey data?
  
  
  
  
 ## 2/16 ##
-**Intro to R Studio and R**
+**[Intro to R Studio and R](https://github.com/cbahlai/OSRR_course/blob/master/08_intro_to_R.md)**
  
  
 ## 2/18 ##
  
-**Open Licensing: Creative Commons**
+**[Open Licensing: Creative Commons](https://github.com/cbahlai/OSRR_course/blob/master/09_open_licensing.md)**
 
 Guest Speaker: Kaitlin Thaney, MSL, Creative Commons
  
@@ -89,7 +89,7 @@ Guest Speaker: Kaitlin Thaney, MSL, Creative Commons
  
  
 ## 2/23 ##
-**Projects and version control in R**
+**[Projects and version control in R](https://github.com/cbahlai/OSRR_course/blob/master/10_projects_version_control_in_R.md)**
 
 Code documentation
  
@@ -97,19 +97,19 @@ Code documentation
 
 ## 2/25 ##
  
-**Reproducibility** (Nuzzo paper)
+**[Reproducibility](https://github.com/cbahlai/OSRR_course/blob/master/11_reproducibility.md)** (Nuzzo paper)
 - Reflection: what steps do we need to take to address the reproducibility crisis in science?
  
  
  
  
 ## 3/1 ##
-**Simple software in R (Functions)**
+**[Simple software in R (Functions)](https://github.com/cbahlai/OSRR_course/blob/master/12_software_in_R_functions.md)**
  
  
 ## 3/3 ##
  
-**Authorship in massive collaborative projects**
+**[Authorship in massive collaborative projects](https://github.com/cbahlai/OSRR_course/blob/master/13_authorship_in_collaboration.md)**
 
 Guest speaker- Titus Brown, UC Davis, on khmer
 
@@ -131,12 +131,12 @@ No class
  
  
 ## 3/15 ##
-**Simple software in R continued (Loops)**
+**[Simple software in R continued (Loops)](https://github.com/cbahlai/OSRR_course/blob/master/14_software_in_R_loops.md)**
  
  
 ## 3/17 ##
  
-**Sharing data** (Mills paper)
+**[Sharing data](https://github.com/cbahlai/OSRR_course/blob/master/15_sharing_data.md)** (Mills paper)
 
 - Reflection: What are the risks of data sharing, and can they be mitigated?
  
@@ -144,13 +144,13 @@ No class
  
  
 ## 3/22 ##
-**Clinic: adapting code produced by others**
+**[Adapting code produced by others](https://github.com/cbahlai/OSRR_course/blob/master/16_adapting_other_peoples_code.md)**
  
 - Exercise: Complete simple analysis on project data
 
 ## 3/24 ##
  
-**Academic publishing and open access journals: predatory publishers, impact factors and  the scientific enterprise, oh my!**
+**[Academic publishing](https://github.com/cbahlai/OSRR_course/blob/master/17_academic_publishing.md) and open access journals: predatory publishers, impact factors and  the scientific enterprise, oh my!**
 
 Guest Speaker: Richard Smith-Unna, Mozilla Science Fellow
 
@@ -160,13 +160,13 @@ Guest Speaker: Richard Smith-Unna, Mozilla Science Fellow
  
  
 ## 3/29 ##
-**Supported work period: creating basic plots using ggplot2**
+**Supported work period: [creating basic plots using ggplot2](https://github.com/cbahlai/OSRR_course/blob/master/18_plotting_with_ggplot2.md)**
  
 - Exercise: finish figures for your project
  
 ## 3/31 ##
  
-**Visualization as an outreach tool**
+**[Visualization as an outreach tool](https://github.com/cbahlai/OSRR_course/blob/master/19_visualization_and_outreach.md)**
 
 Guest Speaker: Joey Lee, Mozilla Science Fellow
  
@@ -181,7 +181,7 @@ Guest Speaker: Joey Lee, Mozilla Science Fellow
  
 ## 4/7 ##
  
-**Non-manuscript scientific products**
+**[Non-manuscript scientific products](https://github.com/cbahlai/OSRR_course/blob/master/20_non-manuscript_research_products.md)**
 
 Guest Speaker: Abby Cabunoc Mayes, MSL on Mozilla Badges
 
@@ -197,7 +197,7 @@ Guest Speaker: Abby Cabunoc Mayes, MSL on Mozilla Badges
 
 ## 4/14 ##
  
-**Crowdsourcing and engaging the public in massive research projects**
+**[Crowdsourcing and engaging the public in massive research projects](https://github.com/cbahlai/OSRR_course/blob/master/21_crowdsourcing_public_engagement.md)**
 
 Guest Speaker: Jason Bobe, Mozilla Science Fellow
  
@@ -205,13 +205,13 @@ Guest Speaker: Jason Bobe, Mozilla Science Fellow
  
  
 ## 4/19 ##
-**Submitting a manuscript to a journal.**
+**[Submitting a manuscript to a journal](https://github.com/cbahlai/OSRR_course/blob/master/22_submitting_manuscripts_to_journals.md)**
  
 - Exercise: What will you need to submit with your MS?
 
 ## 4/21 ##
  
-**Managing  collaborative projects on the web**
+**[Managing  collaborative projects on the web](https://github.com/cbahlai/OSRR_course/blob/master/23_managing_collaborative_projects.md)**
 
 Guest Speaker: Zannah Marsh, Mozilla Science Lab
  
