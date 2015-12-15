@@ -1,12 +1,12 @@
 # Class Schedule, Spring 2016 #
 
 ## 1/12 ##
-**What is open science?**
+**[What is open science?](https://github.com/cbahlai/OSRR_course/blob/master/1_what_is_open_sci.md)**
  
  
 ## 1/14 ##
  
-**What is open science, continued**
+**[What is open science,](https://github.com/cbahlai/OSRR_course/blob/master/1_what_is_open_sci.md) continued**
 
 Rules and regulations from NSF, intro to terminology
  
@@ -66,6 +66,7 @@ Christie away- Mozilla work week
 **Data cleaning: introducing OpenRefine**
  
 - Exercise: QC on project data
+
 ## 2/11 ##
  
 **Grey data: can it be liberated?**
