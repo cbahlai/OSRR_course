@@ -1,4 +1,4 @@
-##Title
+##Sharing data
 
 **Goals for this lesson**
 
@@ -13,5 +13,5 @@ Lesson content
 * [Cool link]() from X
 * [Cool link]() from X
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/14_software_in_R_loops.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/16_adapting_other_peoples_code.md)>>
 
