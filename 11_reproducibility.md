@@ -1,4 +1,4 @@
-##Title
+##Reproducibility
 
 **Goals for this lesson**
 
@@ -13,5 +13,5 @@ Lesson content
 * [Cool link]() from X
 * [Cool link]() from X
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/10_projects_version_control_in_R.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/12_software_in_R_functions.md)>>
 
