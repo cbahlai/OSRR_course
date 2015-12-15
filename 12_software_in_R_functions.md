@@ -1,4 +1,4 @@
-##Title
+##Simple software in R (Functions)
 
 **Goals for this lesson**
 
@@ -13,5 +13,5 @@ Lesson content
 * [Cool link]() from X
 * [Cool link]() from X
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/11_reproducibility.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/13_authorship_in_collaboration.md)>>
 
