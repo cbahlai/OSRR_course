@@ -1,4 +1,4 @@
-##Title
+##Understanding other people’s data: an introduction to metadata
 
 **Goals for this lesson**
 
@@ -13,5 +13,5 @@ Lesson content
 * [Cool link]() from X
 * [Cool link]() from X
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/03_skills_for_open_sci.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/05_data_creation_authorship.md)>>
 
