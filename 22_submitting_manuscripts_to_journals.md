@@ -1,4 +1,4 @@
-##Title
+##Submitting a manuscript to a journal
 
 **Goals for this lesson**
 
@@ -13,5 +13,5 @@ Lesson content
 * [Cool link]() from X
 * [Cool link]() from X
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/21_crowdsourcing_public_engagement.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/23_managing_collaborative_projects.md)>>
 
