@@ -1,5 +1,5 @@
 
-##Title
+##Intro to R Studio and R
 
 **Goals for this lesson**
 
@@ -14,4 +14,4 @@ Lesson content
 * [Cool link]() from X
 * [Cool link]() from X
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/07_grey_data_liberation.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/09_open_licensing.md)>>
