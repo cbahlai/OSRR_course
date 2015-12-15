@@ -15,4 +15,4 @@ This is the first class in the Open Science and Reproducible Research course! We
 * [Why open research?](http://whyopenresearch.org/index.html) from Why Open Research.
 * [Rethinking research data](https://www.youtube.com/watch?v=dXKbkpilQME), a TedXUWMilwaukee talk by Kristin Briney
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous]()  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/02_organizing_data_tables.md)>>
