@@ -1,12 +1,12 @@
 # Class Schedule, Spring 2016 #
 
 ## 1/12 ##
-**[What is open science?](https://github.com/cbahlai/OSRR_course/blob/master/1_what_is_open_sci.md)**
+**[What is open science?](https://github.com/cbahlai/OSRR_course/blob/master/01_what_is_open_sci.md)**
  
  
 ## 1/14 ##
  
-**[What is open science,](https://github.com/cbahlai/OSRR_course/blob/master/1_what_is_open_sci.md) continued**
+**[What is open science,](https://github.com/cbahlai/OSRR_course/blob/master/01_what_is_open_sci.md) continued**
 
 Rules and regulations from NSF, intro to terminology
  
