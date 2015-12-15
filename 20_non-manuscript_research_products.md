@@ -1,4 +1,4 @@
-##Title
+##Non-manuscript scientific products
 
 **Goals for this lesson**
 
@@ -13,5 +13,5 @@ Lesson content
 * [Cool link]() from X
 * [Cool link]() from X
 
-<<[Previous]()  Navigate [Next]()>>
+<<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/19_visualization_and_outreach.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/21_crowdsourcing_public_engagement.md)>>
 
