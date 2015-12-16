@@ -4,3 +4,5 @@ This repo will contain the materials for an open science and reproducible resear
 The initial materials will be developed in conjunction with a real-world offering of the OSRR course, held here at Michigan State, but I'd like to encourage everyone to branch, fork, PR when you have something to add- the end goal is to create materials for a distributed-delivery, customizable course that can be offered to the full breadth of early career scientists- to get all of us started out in a more collaborative, more open environment.
 
 Find the community and tweet to us (me) at #OSRRcourse
+
+Oh! I should cite a license. Let's go with [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
