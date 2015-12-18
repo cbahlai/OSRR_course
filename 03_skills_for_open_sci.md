@@ -10,7 +10,7 @@ Lesson content
 
 **Resources:**
 
-* [Data Sharing and Management Snafu in 3 Short Acts](https://www.youtube.com/watch?v=N2zK3sAtr-4) from NYU Health Sciences Library
-* [Metadata Directory](http://rd-alliance.github.io/metadata-directory/) from Research Data Alliance
+* [Best Practices for Data Management](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf) from DataONE
+* [Cool link]() from X
 
 <<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/02_organizing_data_tables.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/04_understanding_other_peoples_data_metadata.md)>>
