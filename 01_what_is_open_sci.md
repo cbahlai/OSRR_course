@@ -21,7 +21,7 @@ Without further ado, let's learn about Open Science!  We will explore the follow
 * [What is open science?](http://www.openscience.org/blog/?p=269) from The OpenScience Project (2009)
 * [What is open science?](http://blog.f1000research.com/2014/11/11/what-is-open-science/)  from F1000Research (2014)
 * [Why open research?](http://whyopenresearch.org/index.html) from Why Open Research.
-* [Open Research Glossary](https://docs.google.com/document/d/1uXZzyXPHNcjCPiR5qkzEuB5u2PUIYQzq0mrG9BtD-Qo/edit#heading=h.tsneh02k2pc8) this is not only an excellent resource for definitions of terminology commonly used in open science, it's also an example of the community-driven products that are common in the open science community. Check out this [blog post](https://docs.google.com/document/d/1uXZzyXPHNcjCPiR5qkzEuB5u2PUIYQzq0mrG9BtD-Qo/edit#heading=h.tsneh02k2pc8) describing how this glossary came about.
+* [Open Research Glossary](https://docs.google.com/document/d/1uXZzyXPHNcjCPiR5qkzEuB5u2PUIYQzq0mrG9BtD-Qo/edit#heading=h.tsneh02k2pc8) this is not only an excellent resource for definitions of terminology commonly used in open science, it's also an example of the community-driven products that are common in the open science community. Check out this [blog post](https://figshare.com/articles/Open_Research_Glossary/1482094) describing how this glossary came about.
 * [Today’s Data, Tomorrow’s Discoveries](http://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf) NSF's public access plan. This will give us an in-depth look at the changing regulatory landscape around public funding and open data
 
 <<[Previous]()  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/02_organizing_data_tables.md)>>
