@@ -23,7 +23,9 @@ Semester Spring 2016 2 Credits (1-1)
 (Optional!) Kristin Briney, Data Management for Researchers: *Organize, maintain and share your data for Research Success* 2015. Pelagic Publishing, Exeter, UK
  
 ## Time 
-Lecture        	TBD            	        	Seminar       	TBD	
+Tuesday 2-4 PM
+Thursday 3-4 PM
+Center for Integrated Crop Systems Lab Conference Room
  
 ## Class blog
 
@@ -33,7 +35,7 @@ Class blog at https://osrrcourse.wordpress.com/ will be used to summarize what w
  
 **10%   Discussion Lead**
 
-Each student will lead 1-2 discussions  (depending on total enrollment) during the seminar period on an open science issue. Topics and discussion periods will be assigned during week 1.
+Each student will lead 1-2 discussions  (depending on total enrollment) during the seminar period on an open science issue. Topics and discussion periods will be assigned during week 2.
  
 **5%  Discussion Participation**
 
