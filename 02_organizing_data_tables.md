@@ -18,6 +18,7 @@ In this class, we will work through the [Data Carpentry](http://www.datacarpentr
 * I tried to find a funny video about spreadsheets for you guys but all the spreadsheet videos are [so not funny](https://www.youtube.com/watch?v=pvpTH3muxj8)
 * please, PR something better here, I implore you.
 * [Advice on research data mamagement](https://storify.com/tomjwebb/advice-on-research-data-management)- a storify
+* [Ten Commandments for entering data to use in R](http://www.seascapemodels.org/rstats/rspatial/2015/11/13/data-commandments.html) 
 
 <<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/01_what_is_open_sci.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/03_skills_for_open_sci.md)>>
 
