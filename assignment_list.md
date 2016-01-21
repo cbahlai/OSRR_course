@@ -11,6 +11,6 @@ Date | Topic | Expert | Discussion Facilitator | Reflection Blogger
 3/17|What are the risks of data sharing, and can they be mitigated? |Pending |Baho Eshchanov |Andrew Myers
 3/24|How do you measure the quality of a journal? |Rik Smith-Unna |Sara Hermann | Liz Davidson
 3/31|How can we engage broader audiences in our work? |Joey Lee |Logan Rowe | Saisi Xue
-4/7|Can we incentivize open science at more steps in the process? | Abby Cabunoc Mayes |Logan Rowe |Andrew Myers
+4/7|Can we incentivize open science at more steps in the process? | Abby Cabunoc Mayes |Andrew Myers |Logan Rowe
 4/14|Crowdsourcing and engaging the public in massive research projects | Jason Bobe |Liz Davidson | none
 4/21| Managing collaborative projects on the web| Zannah Marsh |Baho Eshchanov |none
