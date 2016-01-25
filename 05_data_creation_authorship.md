@@ -9,7 +9,7 @@ Today, we are going to discuss scientific authorship in the context of data crea
 
 So, how does data sharing fit into scientific authorship? Is using data produced by others [good science](https://dynamicecology.wordpress.com/2013/11/07/the-one-true-route-to-good-science-is/)? 
 
-NB: Both blog posts I've linked have some interesting counter-arguments and/or discussions in the comments section- be sure to skim through those as well in preparation for this discussion.
+*NB: Both blog posts I've linked have some interesting counter-arguments and/or discussions in the comments section- be sure to skim through those as well in preparation for this discussion.*
 
 
 **Resources:**
