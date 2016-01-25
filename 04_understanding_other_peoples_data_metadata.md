@@ -2,10 +2,12 @@
 
 **Goals for this lesson**
 
-* goal
-* goal
+* Understand the benefits of open data and how to encourage others to make their data open.
+* Identify what you can do with your own data to make it possible for someone to build on your work.
 
-Lesson content
+Today Stephanie Wright (Open Data Training Program Lead, Mozilla Science Lab) will be talking about how open data can be used to accelerate the pace of scientific discovery, as well as provide information on how you can make our data open and reusable by others.
+
+We will also work in groups to run through the process of creating a plan for data reuse.
 
 
 **Resources:**
