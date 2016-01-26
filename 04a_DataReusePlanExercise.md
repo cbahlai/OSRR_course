@@ -9,7 +9,7 @@ in-person workshop
 ####Time to complete:  
 45 mins in-person w/ add’l time to refine post-workshop  
 ####What you'll need to start:  
-pen/pencil or text editor, [Data Reuse Plan worksheet], a data set with which you are familiar  
+pen/pencil or text editor, [Data Reuse Plan worksheet] (04b_Data_Reuse_Plan_Worksheet.md), a data set with which you are familiar  
 ####Before using this resource you should be familiar with: Not applicable  
 ####For information on those topics, see: Not applicable  
 ####Glossary of key terms:  
@@ -39,6 +39,7 @@ Are there pieces of information missing from this worksheet that would help some
 * [Metadata Guide](http://www.ands.org.au/guides/metadata-working.html) from Australian National Data Service (ANDS)
 * [Metadata Directory](http://rd-alliance.github.io/metadata-directory/) from Research Data Alliance
 * [Best Practices for Data Management](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf) from DataONE
+* [Challenges to Open Data and How to Respond] (04c_OpenDataChallengesQuickInfoSheet.md)
 
 ####Credits and attribution:
 Metadata definition adapted from “Understanding Metadata” published by NISO Press (2004): [http://www.niso.org/publications/press/UnderstandingMetadata.pdf] (http://www.niso.org/publications/press/UnderstandingMetadata.pdf)
