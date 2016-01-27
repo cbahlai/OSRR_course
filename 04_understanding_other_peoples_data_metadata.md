@@ -17,6 +17,8 @@ We will also work in groups to run through the process of creating a plan for da
 * [Metadata Directory](http://rd-alliance.github.io/metadata-directory/) from Research Data Alliance
 * [Best Practices for Data Management](https://www.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf) from DataONE
 * [Ten Simple Rules for the Care and Feeding of Scientific Data](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542) by Goodman et al
+* [Challenges to Open Data and How to Respond] (04c_OpenDataChallengesQuickInfoSheet.md)
+* [Slide deck of presentation] (https://docs.google.com/a/mozilla.com/presentation/d/1vOWqL_7MUlEtN4eXQwf36wlmAhYEbhrRNQWp5D9uJws/edit?usp=sharing) to class by @stephwright
 
 <<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/03_skills_for_open_sci.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/05_data_creation_authorship.md)>>
 
