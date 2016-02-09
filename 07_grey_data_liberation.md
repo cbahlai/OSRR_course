@@ -9,12 +9,12 @@ Once, when discussing my plans for the future, a senior scientist asked me "But 
 
 One of the goals of this course is, in addition to teaching all the students the skills they need to make their own work reproducible, is to provide a mechanism for liberating grey data. Today, we're going to talk about how to do this, thinking about how to meet the needs of data producers and data consumers alike.
 
-What is grey data?
-Why is it desirable to see grey data published?
-What sources of grey data exist?
-Why might a data producer not publish on the data they've produced?
-What sort of questions can we ask of grey data?
-How do we convince producers of grey data to work with us?
+* What is grey data?
+* Why is it desirable to see grey data published?
+* What sources of grey data exist?
+* Why might a data producer not publish on the data they've produced?
+* What sort of questions can we ask of grey data?
+* How do we convince producers of grey data to work with us?
 
 
 **Resources:**
