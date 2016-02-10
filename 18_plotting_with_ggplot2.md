@@ -2,11 +2,19 @@
 
 **Goals for this lesson**
 
-* goal
-* goal
+* How to plot simple things with ggplot2
+  * scatterplots
+  * bar charts
+  * box/violin plot
+  * density plots / histograms
+* When should you use which graph technique?
 
-Lesson content
+Last, but not least: There's no simple way to make 3D pie charts with ggplot2.
+And that's by design, because [3D pie charts are considered evil](http://www.storytellingwithdata.com/blog/2011/07/death-to-pie-charts).
+Actually even 2D pie charts are not so nice, so try other visualization techniques instead, i.e. bar charts.
+*The only exception to this rule: delivering tasty 3D pie charts to your lecturers.*
 
+![Dog eating Pie](https://ak-hdl.buzzfed.com/static/enhanced/webdr03/2013/1/22/18/anigif_enhanced-buzz-32048-1358898498-3.gif)
 
 **Resources:**
 
