@@ -40,6 +40,7 @@
 
 **Resources:**
 
+* [The lecture!](https://www.youtube.com/watch?v=-w95TuX0pUo&feature=youtu.be) Kaitlin Thaney on Open Licencing, with discussion
 * Open Access
   * [Defining Open Access](https://en.wikipedia.org/wiki/Budapest_Open_Access_Initiative#Definition_of_open_access)
   * [Open Access Overview](http://legacy.earlham.edu/~peters/fos/overview.htm) - Peter Suber
