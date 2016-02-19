@@ -1,4 +1,5 @@
 ##Open Licensing: Creative Commons
+* [Slides](https://docs.google.com/presentation/d/1CiK3Cl86vB2MeV94pPwja0pM4eJVGJZVmKzXWl9CYYg/edit?usp=sharing)
 
 **Goals for this lesson**
 
