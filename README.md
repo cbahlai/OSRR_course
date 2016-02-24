@@ -5,4 +5,4 @@ The initial materials will be developed in conjunction with a real-world offerin
 
 Find the community and tweet to us (me) at #OSRRcourse
 
-Oh! I should cite a license. Let's go with [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+Oh! I should cite a license. Let's go with [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/legalcode)
