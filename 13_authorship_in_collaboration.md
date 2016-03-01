@@ -17,7 +17,7 @@ What do you think is the appropriate set of requirements for authorship on a sof
 3. Any significant contribution to the software is sufficient.
 4. Any contribution to the software is sufficient for authorship.
 
-Please decide on one, and then [read some of the comments](http://ivory.idyll.org/blog/2015-authorship-on-software-papers.html#comment-2420769424) on the blog post. At random, please pick 3 substantive comments that disagree with you, and record their URLs. Then fill out [this form](...).
+Please decide on one, and then [read some of the comments](http://ivory.idyll.org/blog/2015-authorship-on-software-papers.html#comment-2420769424) on the blog post. At random, please pick 3 substantive comments that disagree with you, and record their URLs. Then fill out [this form](https://docs.google.com/forms/d/1gUGaJu_1RA5HNXB_XM8joGjBSJUk61bLUxyAPgm0dhY) before class.
 
 ### Lesson content
 
