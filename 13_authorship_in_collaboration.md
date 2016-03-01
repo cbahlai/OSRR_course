@@ -21,11 +21,12 @@ Please decide on one, and then [read some of the comments](http://ivory.idyll.or
 
 ### Lesson content
 
+To be added :)
 
 ### Resources:
 
-* [Cool link]() from X
-* [Cool link]() from X
+* [Challenges in computationally assigning credit?](https://github.com/Impactstory/depsy/issues/26) from depsy.org
+* [Transitive credit and JSON-LD](http://openresearchsoftware.metajnl.com/articles/10.5334/jors.by/) from Dan Katz and Arfon Smith
 
 <<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/12_software_in_R_functions.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/14_software_in_R_loops.md)>>
 
