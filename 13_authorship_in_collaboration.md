@@ -34,6 +34,8 @@ I am also happy to go over people's answers on the homework.
 
 * [Challenges in computationally assigning credit?](https://github.com/Impactstory/depsy/issues/26) from depsy.org
 * [Transitive credit and JSON-LD](http://openresearchsoftware.metajnl.com/articles/10.5334/jors.by/) from Dan Katz and Arfon Smith
+* [Code as a Reasearch Object](https://mozillascience.org/code-as-a-research-object-a-new-project)
+* [Contributorship Badges for Science](https://www.mozillascience.org/contributorship-badges-a-new-project) 
 
 <<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/12_software_in_R_functions.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/14_software_in_R_loops.md)>>
 
