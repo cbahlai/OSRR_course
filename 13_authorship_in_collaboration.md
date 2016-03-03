@@ -21,7 +21,14 @@ Please decide on one, and then [read some of the comments](http://ivory.idyll.or
 
 ### Lesson content
 
-To be added :)
+We'll do a [Strengths, Weaknesses, Oppportunities, Threats analysis](https://en.wikipedia.org/wiki/SWOT_analysis) in class - see [the google doc](https://docs.google.com/document/d/1dOJzZg5WVKivAkwsKyEPFQI8t7eOga1RMcXs-QjTlr8).
+
+### Other discussion points
+
+* What are authorship traditions in fields other than biology? How much do they differ?
+* Under the ICMJE rules, who is responsible for research misconduct in publications? Is this appropriate?
+
+I am also happy to go over people's answers on the homework.
 
 ### Resources:
 
