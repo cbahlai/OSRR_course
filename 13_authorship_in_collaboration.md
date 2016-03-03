@@ -23,6 +23,8 @@ Please decide on one, and then [read some of the comments](http://ivory.idyll.or
 
 We'll do a [Strengths, Weaknesses, Oppportunities, Threats analysis](https://en.wikipedia.org/wiki/SWOT_analysis) in class - see [the google doc](https://docs.google.com/document/d/1dOJzZg5WVKivAkwsKyEPFQI8t7eOga1RMcXs-QjTlr8).
 
+[Here's CTB's](https://docs.google.com/document/d/1ru06mZY9DBLILrLEI_4jk5vk5ChWGi2wLwSwZa3gLsA/edit)
+
 ### Other discussion points
 
 * What are authorship traditions in fields other than biology? How much do they differ?
