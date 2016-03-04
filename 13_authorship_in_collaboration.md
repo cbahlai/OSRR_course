@@ -34,6 +34,7 @@ I am also happy to go over people's answers on the homework.
 
 ### Resources:
 
+* [Recording of discussion](https://www.youtube.com/watch?v=KQKyKySW3s0)
 * [Challenges in computationally assigning credit?](https://github.com/Impactstory/depsy/issues/26) from depsy.org
 * [Transitive credit and JSON-LD](http://openresearchsoftware.metajnl.com/articles/10.5334/jors.by/) from Dan Katz and Arfon Smith
 * [Code as a Reasearch Object](https://mozillascience.org/code-as-a-research-object-a-new-project)
