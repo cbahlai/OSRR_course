@@ -24,6 +24,7 @@ Actually even 2D pie charts are not so nice, so try other visualization techniqu
 * [ggplot2 Quickref](http://r-statistics.co/ggplot2-cheatsheet.html)
 * [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 * [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/)
+* [Advanced: Interactive Graphs w/ Shiny](http://shiny.rstudio.com/tutorial/)
 * For fun: Plot using emoji with [emoGG](https://github.com/dill/emoGG)
 
 <<[Previous](https://github.com/cbahlai/OSRR_course/blob/master/17_academic_publishing.md)  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/19_visualization_and_outreach.md)>>
