@@ -19,7 +19,7 @@ Today we're going to be talking to Emilio Bruna and Terry McGlynn about their ta
 **Resources:**
 
 * [I own my data, until I don't](https://smallpondscience.com/2014/03/03/i-own-my-data-until-i-dont/) by Terry McGlynn
-* [The opportunity Costs of my Open Science](http://brunalab.org/blog/2014/09/04/the-opportunity-cost-of-my-openscience-was-35-hours-690/) by emilio Bruna
+* [The opportunity Costs of my Open Science](http://brunalab.org/blog/2014/09/04/the-opportunity-cost-of-my-openscience-was-35-hours-690/) by Emilio Bruna
 * [Archiving Primary Data: Solutions for Long-Term Studies](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(15)00185-8) by Mills et al- this paper represents a serious pushback against data sharing- I disagree with many of their arguments as an [LTER scientist](https://www.lternet.edu/), but I admit I come at long term studies from a place with considerable privilege and probably an unusual reward structure because of my connection to this network. I feel this paper is an ideal nucleation point for discussion. **Does data sharing come from a place of privilege? How can we make it *not*?**
 
 
