@@ -5,8 +5,7 @@
 * goal
 * goal
 
-Lesson content
-
+Today, Abigail Cabunoc Mayes (Lead Developer, Mozilla Science Lab) will be looking at incentivizing open science at all steps in the research process.
 
 **Resources:**
 
