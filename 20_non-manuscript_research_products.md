@@ -19,6 +19,7 @@ We may also try issuing badges to class participants.
   * [JSON-LD for software discovery, reuse and credit](http://www.arfon.org/json-ld-for-software-discovery-reuse-and-credit) Arfon Smith
   * [CodeMeta](http://codemeta.github.io/)
   * [Software Discovery Dashboard](http://mozillascience.github.io/software-discovery-dashboard/)
+  * [Making your code citable](https://guides.github.com/activities/citable-code/) | GitHub
 * [Contributorship Badges for Science](https://www.mozillascience.org/contributorship-badges-a-new-project)
   * [Paper Badger](https://badges.mozillascience.org/)
   * [Paper Badger](http://github.com/mozillascience/paperbadger) | GitHub Repo
