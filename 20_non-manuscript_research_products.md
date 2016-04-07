@@ -12,6 +12,7 @@ We may also try issuing badges to class participants.
 
 **Resources:**
 
+* [Slides!](http://acabunoc.github.io/osrr-paper-badger/#/)
 * [Code as a Research Object](https://mozillascience.org/code-as-a-research-object-a-new-project)
   * [fidgit](https://github.com/arfon/fidgit)
   * [first prototype w/ figshare](http://mozillascience.github.io/code-research-object/)
