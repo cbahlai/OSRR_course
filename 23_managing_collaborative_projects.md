@@ -2,8 +2,9 @@
 
 **Goals for this lesson**
 
-* goal
-* goal
+* Learn how to harness the power of the web
+* Find entry points to joining projects
+* learn about working and managing interactions in virtual communities
 
 Lesson content
 
