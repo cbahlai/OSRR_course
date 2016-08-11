@@ -3,7 +3,7 @@
 
 **Goals for this lesson**
 
-* Get everyone oriented and comfortable with the R studio intervace
+* Get everyone oriented and comfortable with the R studio interface
 * Get our class data into R and start looking at it!
 
 We're going to loosely follow the Data Carpentry intro to R lesson, but since most students have some experience on this front, we'll go through this quickly, and get right into looking at our real data. We might merge and take some material from lecture 10 here as it probably makes sense to set us up with a project directory that's got version control working for us earlier rather than later. This is mostly me typing aloud at this point, as I'm trying to customize this lesson to where I see the students' needs are.
