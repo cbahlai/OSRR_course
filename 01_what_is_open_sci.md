@@ -25,4 +25,4 @@ Without further ado, let's learn about Open Science!  We will explore the follow
 * [Open Research Glossary](https://docs.google.com/document/d/1uXZzyXPHNcjCPiR5qkzEuB5u2PUIYQzq0mrG9BtD-Qo/edit#heading=h.tsneh02k2pc8) this is not only an excellent resource for definitions of terminology commonly used in open science, it's also an example of the community-driven products that are common in the open science community. Check out this [blog post](https://figshare.com/articles/Open_Research_Glossary/1482094) describing how this glossary came about.
 * [Today’s Data, Tomorrow’s Discoveries](http://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf) NSF's public access plan. This will give us an in-depth look at the changing regulatory landscape around public funding and open data
 
-<<[Previous]()  Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/02_organizing_data_tables.md)>>
+Navigate [Next](https://github.com/cbahlai/OSRR_course/blob/master/02_organizing_data_tables.md)>>
